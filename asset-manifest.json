@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6290855d.css",
+    "main.js": "/static/js/main.09866ed0.js",
+    "static/media/nibal.png": "/static/media/nibal.4104f8221cbf9ad3281f.png",
+    "index.html": "/index.html",
+    "main.6290855d.css.map": "/static/css/main.6290855d.css.map",
+    "main.09866ed0.js.map": "/static/js/main.09866ed0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6290855d.css",
+    "static/js/main.09866ed0.js"
+  ]
+}
