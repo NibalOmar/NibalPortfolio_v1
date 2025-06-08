@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nibal-portfolio/static/css/main.6290855d.css",
-    "main.js": "/nibal-portfolio/static/js/main.bde0628a.js",
-    "static/media/nibal.png": "/nibal-portfolio/static/media/nibal.4104f8221cbf9ad3281f.png",
-    "index.html": "/nibal-portfolio/index.html",
-    "main.6290855d.css.map": "/nibal-portfolio/static/css/main.6290855d.css.map",
-    "main.bde0628a.js.map": "/nibal-portfolio/static/js/main.bde0628a.js.map"
+    "main.css": "/NibalPortfolio_v1/static/css/main.6290855d.css",
+    "main.js": "/NibalPortfolio_v1/static/js/main.c82ceaed.js",
+    "static/media/nibal.png": "/NibalPortfolio_v1/static/media/nibal.4104f8221cbf9ad3281f.png",
+    "index.html": "/NibalPortfolio_v1/index.html",
+    "main.6290855d.css.map": "/NibalPortfolio_v1/static/css/main.6290855d.css.map",
+    "main.c82ceaed.js.map": "/NibalPortfolio_v1/static/js/main.c82ceaed.js.map"
   },
   "entrypoints": [
     "static/css/main.6290855d.css",
-    "static/js/main.bde0628a.js"
+    "static/js/main.c82ceaed.js"
   ]
 }
